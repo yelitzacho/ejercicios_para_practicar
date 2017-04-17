@@ -3,20 +3,19 @@ body{
 }
 
 li{
-	font-weight: bolder;
+	font-size: 20px;
 	display: block;
 	height: 50px;
-	width: 700px;
+	width: 200px;
 	padding: 10px;
 	background-color: yellow;
+	margin-bottom: 20px;
 }
 
 #es {
 	background-color: red;
-	border: 0.5px #000000 solid;
 }
 
 #transformacion {
 	text-transform: uppercase;
-	border-color: #000000;
 }
