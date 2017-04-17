@@ -1,0 +1,22 @@
+body{
+	font-family: 'Muli', sans-serif;
+}
+
+li{
+	font-weight: bolder;
+	display: block;
+	height: 50px;
+	width: 700px;
+	padding: 10px;
+	background-color: yellow;
+}
+
+#es {
+	background-color: red;
+	border: 0.5px #000000 solid;
+}
+
+#transformacion {
+	text-transform: uppercase;
+	border-color: #000000;
+}
